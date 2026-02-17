@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvalysh0&label=Profile%20views&color=0e75b6&style=flat" alt="yuvalysh0" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://www.yuvalshalom.net/](https://www.yuvalshalom.net/)
+- 👨‍💻 All of my projects are available at [https://www.yuvalshalom.net/](https://www.yuvalshalom.com/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Nkh-Xi7KZRjYNlerZvLls0QRcVBdyFfy/view?usp=sharing](https://drive.google.com/file/d/1Nkh-Xi7KZRjYNlerZvLls0QRcVBdyFfy/view?usp=sharing)
 
